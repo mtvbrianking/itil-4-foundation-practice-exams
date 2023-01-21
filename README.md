@@ -1,2 +1,3 @@
-# itil-4-foundation-exams
-ITIL 4 Foundation Exam Prep
+# ITIL 4 Foundation Practice Exams
+
+Disclaimer: I'm not the original creator/author of the questions.
